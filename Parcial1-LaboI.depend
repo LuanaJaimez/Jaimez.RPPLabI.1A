@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1594210323 source:c:\users\luana\desktop\workspace\parcial1-laboi\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1594211173 c:\users\luana\desktop\workspace\parcial1-laboi\utn.h
+
+1594183462 source:c:\users\luana\desktop\workspace\parcial1-laboi\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"utn.h"
+	"auto.h"
+
+1594218121 c:\users\luana\desktop\workspace\parcial1-laboi\auto.h
+
+1594219627 source:c:\users\luana\desktop\workspace\parcial1-laboi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"auto.h"
+	"trabajo.h"
+	"informes.h"
+	"empleado.h"
+
+1594160355 c:\users\luana\desktop\workspace\parcial1-laboi\trabajo.h
+	"auto.h"
+	"servicio.h"
+
+1594157072 c:\users\luana\desktop\workspace\parcial1-laboi\servicio.h
+
+1594169367 source:c:\users\luana\desktop\workspace\parcial1-laboi\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+
+1594210153 source:c:\users\luana\desktop\workspace\parcial1-laboi\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"utn.h"
+
+1589974655 source:c:\users\luana\desktop\workspace\parcial1-laboi\cliente.c
+
+1594210122 source:c:\users\luana\desktop\workspace\parcial1-laboi\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"auto.h"
+	"servicio.h"
+	"trabajo.h"
+	"informes.h"
+
+1594186206 c:\users\luana\desktop\workspace\parcial1-laboi\informes.h
+
+1594220417 c:\users\luana\desktop\workspace\parcial1-laboi\empleado.h
+	"auto.h"
+
+1594219619 source:c:\users\luana\desktop\workspace\parcial1-laboi\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"auto.h"
+	"utn.h"
+
